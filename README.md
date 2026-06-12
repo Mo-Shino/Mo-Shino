@@ -17,14 +17,6 @@
 
 ---
 
-<div align="center">
-
-```
-
-</div>
-
----
-
 ## 🚀 About Me
 
 I'm a **Creative Designer & Full-Stack Developer** from Cairo, Egypt — one of the rare profiles where design thinking and engineering depth genuinely coexist.
@@ -34,7 +26,7 @@ With **6+ years in graphic design** and solid backend skills built through acade
 - 🎯 **Current Focus** — Advanced ASP.NET Core, Web APIs & System Architecture
 - 🏗️ **Building** — Full-stack products with clean architecture, from brand identity to deployment
 - 🧠 **Mindset** — Problem-solver. Clean code advocate. Detail-obsessed.
-- 📍 **Location** — Cairo, Egypt · Available for remote work
+- 📍 **Location** — Alexandria, Egypt · Available for remote work
 
 ---
 
@@ -162,7 +154,7 @@ Beyond code — **6+ years** delivering brand identities, UI/UX systems, social 
 
 <div align="center">
 
-**— Mohammed Elshinawy · Cairo, Egypt —**
+**— Mohammed Elshinawy · Alexandria, Egypt —**
 
 [![Email](https://img.shields.io/badge/mohammedelshinof@gmail.com-083135?style=flat-square&logo=gmail&logoColor=d5a866)](mailto:mohammedelshinof@gmail.com)
 
