@@ -20,20 +20,6 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  DEV-ID: 0101-ME-2024                                    />  │
-│                                                              │
-│  1  I build complete Digital Products — from zero           │
-│     to launch. Design + Code, both under one roof.          │
-│                                                              │
-│  2  Not just code that works. Code that's clean,            │
-│     structured, and built to last.                          │
-│                                                              │
-│  ──────────────────────────────────────────────────         │
-│  CORE DIRECTIVE //                                          │
-│  «إن الله تعالى يحب إذا عمل أحدكم عملاً أن يتقنه»          │
-└─────────────────────────────────────────────────────────────┘
-```
 
 </div>
 
