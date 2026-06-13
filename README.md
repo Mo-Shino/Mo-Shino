@@ -5,7 +5,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D5A866&center=true&vCenter=true&width=600&lines=const+developer+%3D+%22%D9%85%D8%AD%D9%85%D8%AF+%D8%A7%D9%84%D8%B4%D9%86%D8%A7%D9%88%D9%8A%22%3B;Creative+Designer+%26+Full-Stack+Developer;Building+Digital+Products+from+0+to+Launch;Clean+Code.+Bold+Design.+Real+Impact.)
+![Typing SVG](**https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D5A866&center=true&vCenter=true&width=600&lines=const+developer+%3D+%22%D9%85%D8%AD%D9%85%D8%AF+%D8%A7%D9%84%D8%B4%D9%86%D8%A7%D9%88%D9%8A%22%3B;Creative+Designer+%26+Full-Stack+Developer;Building+Digital+Products+from+0+to+Launch;Clean+Code.+Bold+Design.+Real+Impact.)
 
 <br/>
 
